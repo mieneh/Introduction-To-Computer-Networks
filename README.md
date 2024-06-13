@@ -1,7 +1,7 @@
 # Introduction To Computer Networks
 **2021-2022**
 
-Đồ án cuối kỳ môn học Nhập Môn Mạng Máy Tính.
+Đồ án cuối kỳ môn Nhập Môn Mạng Máy Tính.
 
 - Chủ đề: Thiết kế cho một quán Coffee 2 tầng.
 - Yêu cầu: 
